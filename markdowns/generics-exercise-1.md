@@ -18,6 +18,6 @@ The tests use a class history that is as follows:
 * `VanillaCake` extends `Cake`
 
 @[Write the implementation]({
-    "stubs": ["src/main/java/generics/util/UnionUtil.java", "src/main/java/generics/util/UnionUtilTest.java"], 
+    "stubs": ["src/main/java/generics/util/UnionUtil.java", "src/test/java/generics/util/UnionUtilTest.java"], 
     "command": "generics.util.UnionUtilTest"
 })
